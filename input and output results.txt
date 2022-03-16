@@ -1,0 +1,57 @@
+Joan Fontaine Juliane Banse
+
+Lou Salvador Jr. Germaine Smith
+
+
+output 
+
+Name: Joan Fontaine
+Name: Juliane Banse
+---swap is done for target and source
+52500 21
+number of new kid nodes:3 / number of explored node: 1 / number of nodes in frontier 3
+number of new kid nodes:9 / number of explored node: 4 / number of nodes in frontier 9
+number of new kid nodes:18 / number of explored node: 13 / number of nodes in frontier 18
+number of new kid nodes:34 / number of explored node: 31 / number of nodes in frontier 34
+number of new kid nodes:86 / number of explored node: 65 / number of nodes in frontier 86
+number of new kid nodes:415 / number of explored node: 151 / number of nodes in frontier 415
+number of new kid nodes:5386 / number of explored node: 566 / number of nodes in frontier 5386
+number of new kid nodes:120050 / number of explored node: 5952 / number of nodes in frontier 120050
+reached the target: 21
+number of new kid nodes:325896 / number of explored node: 48450 / number of nodes in frontier 403448
+new path length at:  9
+new path length at:  [('299615', '21'), ('67975', '1666'), ('446582', '915840'), ('375663', '482730'), ('6964076', '95104'), ('2254056', '315636'), ('2119535', '179114'), ('7076030', '889900'), ('1492886', '3633402')]
+*********************************
+
+ ---->> connection found path with length:  9
+time cost for getting path at 1.2397650933333333 min
+9 degrees of separation.
+1: Joan Fontaine and Regula Mühlemann starred in Hunter's Bride
+2: Regula Mühlemann and Ramón Vargas starred in Of the Voice
+3: Ramón Vargas and Alessandro Corbelli starred in The Elixir of Love
+4: Alessandro Corbelli and Angela Gheorghiu starred in Adriana Lecouvreur
+5: Angela Gheorghiu and Bono starred in Pavarotti
+6: Bono and The Dalai Lama starred in A Closer Walk
+7: The Dalai Lama and Dennis Weaver starred in Peace Pilgrim: An American Sage Who Walked Her Talk
+8: Dennis Weaver and Debbie Reynolds starred in What's the Matter with Helen?
+9: Debbie Reynolds and Joan Fontaine starred in Busby Berkeley
+
+Process finished with exit code 0
+
+
+--------------------------------------
+Loading data...
+Data loaded.
+Name: Lou Salvador Jr.
+Name: Germaine Smith
+---swap is done for target and source
+5683118 759242
+number of new kid nodes:10 / number of explored node: 1 / number of nodes in frontier 10
+number of new kid nodes:26 / number of explored node: 11 / number of nodes in frontier 26
+number of new kid nodes:9 / number of explored node: 37 / number of nodes in frontier 9
+number of new kid nodes:6 / number of explored node: 46 / number of nodes in frontier 6
+number of new kid nodes:3 / number of explored node: 52 / number of nodes in frontier 3
+number of new kid nodes:0 / number of explored node: 55 / number of nodes in frontier 0
+
+ search is ended and has found no path with 55 explored nodes
+Not connected.
